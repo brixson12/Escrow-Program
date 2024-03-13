@@ -1,6 +1,3 @@
-
-Certainly! A good README file provides information on how to use, set up, and understand the code. Below is a sample README file for the provided Escrow smart contract:
-
 Escrow Smart Contract
 Overview
 This Solidity smart contract implements a simple escrow system on the Ethereum blockchain. It allows users to deposit funds, imposes a time lock, and enables withdrawals only after the specified time has passed. The contract owner can withdraw all funds after the time lock, while individual depositors can withdraw their respective deposits.
